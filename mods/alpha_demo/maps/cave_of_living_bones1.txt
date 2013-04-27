@@ -325,13 +325,13 @@ data=
 
 [event]
 # to Ydrakka Pass
-type=custom
+type=on_trigger
 location=54,96,2,1
 intermap=ydrakka_pass.txt,213,31
 
 [event]
 # to Cave 2
-type=custom
+type=on_trigger
 location=32,2,3,1
 intermap=cave_of_living_bones2.txt,37,74
 
