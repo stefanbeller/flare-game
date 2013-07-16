@@ -1,0 +1,11 @@
+# option=base,head,portrait,name
+# base is the folder in /images/avatar
+# head is the png in /images/avatar/[base]
+# portrait is the png in /images/portraits
+# name is the default name on character creation
+
+option=male,head_short,custom,Stefan
+
+# head, base are unchanged, only portrait and name was changed.
+# So see /images/portraits/custom.png
+
