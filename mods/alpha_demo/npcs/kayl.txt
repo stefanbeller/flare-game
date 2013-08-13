@@ -17,3 +17,28 @@ vox_intro=female_merchant_05.ogg
 vox_intro=female_merchant_06.ogg
 vox_intro=female_merchant_07.ogg
 vox_intro=female_merchant_08.ogg
+
+[dialog]
+her=I could sell you some potions. I am short of some powerful ingredients, hence the prize is high.
+you=Where do I find these ingredients?
+her=The berries used to grow near the graveyard on the frontier plains. But when the graves were cursed, the berries stopped growing there.
+her=Maybe you can remove the evil from the graveyard by destroying the graves spawning zombies.
+set_status=kayl_1
+
+
+[dialog]
+requires_status=kayl_2
+her=Cruel work, but for greater good! Also you need to place this jewel in the socket at the graveyard to prevent the evil to come in there again.
+reward_item=
+set_status=kayl_3
+
+
+[dialog]
+requires_status=kayl_4
+her=Now we need to see if the berries will grow again. You find the green berries by following their magical attraction of your heart. If you're going near the graveyard again anyway, also check for flowers. They can also be used as ingredients for potions.
+
+
+
+
+
+
